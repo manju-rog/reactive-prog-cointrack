@@ -1,0 +1,5 @@
+{
+  "name": "CoinTrackr: Live Crypto Dashboard",
+  "description": "A sleek, modern, dark-themed dashboard that provides live price updates for the top cryptocurrencies. Features instant search, visual feedback for price changes, and graceful error handling.",
+  "requestFramePermissions": []
+}
